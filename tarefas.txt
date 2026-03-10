@@ -1,0 +1,4 @@
+false,Criar menu
+false,Adicionar opcoes
+false,Funcionalidades das funcoes
+false,Criar um arquivo txt
